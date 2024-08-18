@@ -1,0 +1,87 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "anas.deep@tsmesolutions.com",
+      "password": "password123"
+    },
+    {
+      "id": "2",
+      "email": "john.doe@example.com",
+      "password": "pass456"
+    },
+    {
+      "id": "3",
+      "email": "seif.alhawatmah@solutions.com",
+      "password": "pass456"
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Install 'Automation 360' Browser Extension",
+      "description": "*Visit the official [Automation Anywhere documentation](https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/deployment-planning/browser-extension-enhancements.html) for browser extension enhancements. Follow the provided instructions to download and install the 'Automation 360' browser extension compatible with your browser.*",
+      "completed": false,
+      "id": "24d9"
+    },
+    {
+      "title": "3. Enable Automation 360 Browser Extension",
+      "description": "*After installation, ensure that the extension is enabled. Locate 'Automation 360' in your browser settings and make sure the toggle switch is set to 'Enabled.'*",
+      "completed": false,
+      "id": "b5ce"
+    },
+    {
+      "title": " Restart the Browser and Retry",
+      "description": "*Once the extension is installed and enabled, restart your browser. Retry the operation that led to the error. The 'Automation 360' browser extension should now be actively involved, and the error may be resolved.*",
+      "completed": true,
+      "id": "1645"
+    },
+    {
+      "title": "Read Book",
+      "description": "Read at least 50 pages of the current book, 'The Art of Thinking Clearly'.",
+      "completed": false,
+      "id": "af5a"
+    },
+    {
+      "title": "Call Parents",
+      "description": "Catch up with Mom and Dad over the phone in the evening.",
+      "completed": true,
+      "id": "dd36"
+    },
+    {
+      "title": "Clean Kitchen",
+      "description": "Do the dishes, wipe down the counters, and take out the trash.",
+      "completed": false,
+      "id": "9aed"
+    },
+    {
+      "title": "Plan Weekend Trip",
+      "description": "Research and plan a weekend getaway destination with friends.",
+      "completed": false,
+      "id": "425a"
+    },
+    {
+      "title": "Attend Webinar",
+      "description": "Join the online webinar on 'Advancements in AI' at 3 PM.",
+      "completed": true,
+      "id": "14e0"
+    },
+    {
+      "id": "578a",
+      "title": "Install 'Automation 360' Browser Extension",
+      "description": "Visit the official [Automation Anywhere documentation](https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/deployment-planning/browser-",
+      "completed": false
+    },
+    {
+      "id": "4361",
+      "title": "clean me",
+      "description": "clean me",
+      "completed": false
+    },
+    {
+      "id": "986d",
+      "title": "Restart the Browser and Retry",
+      "description": "Restart the Browser and Retry",
+      "completed": false
+    }
+  ]
+}
